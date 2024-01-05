@@ -21,11 +21,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![QR code component in browser](./result-qr-code-website.png)
 
-### Links
-
-- Solution/Code URL: [To be added later](https://your-solution-url.com)
-- Live Site URL: [To be added later](https://your-live-site-url.com)
-
 ## My process
 
 ### Built with
