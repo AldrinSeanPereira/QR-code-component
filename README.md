@@ -73,8 +73,10 @@ I will continue on the projects in the discord channel `Challenge-roadmaps` offe
 
 ### Useful resources
 
-- How to use Visual studio code to write HTML + CSS 
-  - [FreeCodeCamp tutorial](https://www.youtube.com/watch?v=yjeHLSrhPao) - This one is a bit long but extremely helpful throughout your career 
+- How to use Visual Studio Code to write HTML + CSS 
+  - [Visual Studio Code tutorial](https://www.youtube.com/watch?v=yjeHLSrhPao) - This one is a bit long but extremely helpful throughout your career
+  - [Live Server extension tutorial](https://www.youtube.com/watch?v=_Tl-6HeV0Rc&t) - We see the result of our HTML,CSS, JavaScript so we need to use this tutorial
+
 - To understand how to edit the README.md [use this](https://www.markdownguide.org/)
 - To submit your code on GitHub and show the website live [use this](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248)
 
