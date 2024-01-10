@@ -21,6 +21,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![QR code component in browser](./result-qr-code-website.png)
 
+### Links
+
+- Solution/Code URL: [link](https://github.com/AldrinSeanPereira/QR-code-component/tree/main)
+- Live Site URL: [link](https://loquacious-raindrop-73775c.netlify.app/)
+
 ## My process
 
 ### Built with
@@ -68,8 +73,8 @@ I will continue on the projects in the discord channel `Challenge-roadmaps` offe
 
 ### Useful resources
 
-- How to use Visual studio code to write HTML + CSS [use this](https://www.youtube.com/watch?v=VqZURkN90Ik)
-- To deepen your understanding of using Visual Studio Code [use this](https://www.youtube.com/watch?v=B-s71n0dHUk)
+- How to use Visual studio code to write HTML + CSS 
+  - [FreeCodeCamp tutorial](https://www.youtube.com/watch?v=yjeHLSrhPao) - This one is a bit long but extremely helpful throughout your career 
 - To understand how to edit the README.md [use this](https://www.markdownguide.org/)
 - To submit your code on GitHub and show the website live [use this](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248)
 
